@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Poppins:wght@400;500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text-color-links: #FFF;
+  --color-button: #FF4820;
+}
+
+body {
+  background: #031B34;
+  font-family: 'Manrope', sans-serif;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text-color-links);
+}
+
+.container {
+  display: flex;
+  max-width: 1440px;
+  margin-top: 55px;
+  margin-bottom: 135px;
+  align-items: center;
+  justify-content: space-between;
+  justify-self: center;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.menu img {
+  margin-right: 69px;
+  width: 63px;
+  height: 16px;
+}
+
+nav {
+  margin-right: 237px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 54px;
+}
+
+ul li a {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button a {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+#button-header {
+  width: 152px;
+  height: 58px;
+  background-color: var(--color-button);
+  border: none;
+  border-radius: 5px;
+  margin-left: 26px;
+}
+
+.content {
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+  padding-top: 103px;
+}
+
+.content-main {
+  display: flex;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+}
+
+.title h1 {
+  font-size: 62px;
+  font-weight: 800;
+  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title h2 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #81AFDD;
+  padding-top: 33px;
+  padding-bottom: 52px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title input {
+  border: none;
+  width: 630px;
+  height: 63px;
+}
+
+.input button {
+  width: 174px;
+  height: 73px;
+  background-color: var(--color-button);
+  border: none;
+  border-radius: 5px;
+}
+
+.image-content img {
+  width: 668px;
+  height: 700px;
+}
+
