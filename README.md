@@ -43,11 +43,9 @@ Landing Page desenvolvida durante a live:
 
 Live Preview: https://live-twitch-lp-gpt3.vercel.app/
 
-Figma: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
-
 ## 🎨 Inspiração:
 
-[Dribbble](https://dribbble.com/shots/17407084-Travel-Web-Header-Landing-Page-design/attachments/12533821?mode=media)
+Figma: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
 
 ## :memo: Licença
 
