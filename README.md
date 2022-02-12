@@ -49,7 +49,7 @@ Figma: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
